@@ -1,6 +1,6 @@
 # First Pot of Gold Calculator
 
-This flutter project able to build mobile and web with the same source code
+This flutter project able to build mobile and web, PWA with the same source code
 
 # What is first pot of gold?
 
