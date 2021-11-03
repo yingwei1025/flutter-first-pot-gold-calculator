@@ -1,0 +1,18 @@
+{
+  "language": "中文",
+  "first_pot_gold_planner": "第一桶金计算器",
+  "cal_ur":"计算你的",
+  "ur_current_saving":"你目前的本金",
+  "ur_target_first_pot_of_gold":"你希望达到的第一桶金数目",
+  "estimate_rate_of_return_per_year":"你估计每一年的回报率 %",
+  "how_many_years_to_achieve":"你希望在多少年内达成",
+  "or": "或",
+  "you_need_to_save":"你需要存",
+  "per_month":"每个月",
+  "per_year":"每年",
+  "to_reach_your":"来达到你的",
+  "first_pot_of_gold":"第一桶金",
+  "in_":"在",
+  "of_":"",
+  "years":"年内"
+}
