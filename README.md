@@ -10,6 +10,8 @@ First pot of gold or first pot of money is the first achievement in your life to
 
 https://yingwei1025.github.io/first-pot-gold-calculator/#/
 
+![ScreenShot](/screenshot.jpeg)
+
 ## Getting Started
 
 This project is a Flutter application.
