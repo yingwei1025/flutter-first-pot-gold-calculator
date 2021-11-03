@@ -1,6 +1,14 @@
-# firstpotm
+# First Pot of Gold Calculator
 
-First Money Pot Calculate
+This flutter project able to build mobile and web with the same source code
+
+# What is first pot of gold?
+
+First pot of gold or first pot of money is the first achievement in your life to earn a certain big amount of money. You need to saving every month and gain a high investment rate in order to get your first pot of gold.
+
+# Live demo
+
+https://yingwei1025.github.io/first-pot-gold-calculator/#/
 
 ## Getting Started
 
