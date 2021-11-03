@@ -6,8 +6,6 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:firstpotm/widget/locale_provider.dart';
 import 'package:provider/provider.dart';
 
-import 'l10n/l10n.dart';
-
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
   @override
@@ -322,7 +320,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 child: Text(saving,
                     style: TextStyle(
                         fontSize: kIsWeb
-                            ? saving.length <= 7
+                            ? saving.length <= 6
                                 ? 80
                                 : 50
                             : saving.length <= 6
