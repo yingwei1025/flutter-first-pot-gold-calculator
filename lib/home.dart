@@ -320,12 +320,12 @@ class _HomeScreenState extends State<HomeScreen> {
                 child: Text(saving,
                     style: TextStyle(
                         fontSize: kIsWeb
-                            ? saving.length <= 6
-                                ? 80
-                                : 50
-                            : saving.length <= 6
+                            ? saving.length < 6
                                 ? 70
-                                : 40,
+                                : 40
+                            : saving.length < 6
+                                ? 60
+                                : 30,
                         color: Theme.of(context).primaryColor)),
               ),
               const SizedBox(
